@@ -1,0 +1,27 @@
+.modalGrid {
+  display : flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.modalItem {
+  margin : 0.5em;
+}
+.smallButton {
+  width: 10em;
+}
+.orangeButton {
+  background-color: rgb(255, 197, 88);
+  border : 1px solid rgb(211, 158, 60);
+  transition: all 50ms;
+}
+.orangeButton:active {
+  background-color: rgb(255, 221, 157);
+  border : 1px solid rgb(223, 145, 0);
+}
+.modalImage {
+  transition: all 150ms ease-out;
+
+}
+.modalImage:hover {
+  transform : scale(1.1) rotate(15deg);
+}

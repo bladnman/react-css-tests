@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="86px" viewBox="0 0 70 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>fire</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fire" fill="#000000" fill-rule="nonzero">
+            <path d="M21.5384615,0 C32.3076923,21.5 0,32.25 0,53.75 C0,75.25 21.5384615,86 21.5384615,86 C11.0384615,64.76875 43.0769231,53.75 43.0769231,32.25 C43.0769231,10.75 21.5384615,0 21.5384615,0 Z M48.4615385,26.875 C59.2307692,48.375 26.9230769,59.125 26.9230769,80.625 C26.9230769,83.3125 28,85.19375 29.6153846,86 L51.1538462,86 C55.1923077,86 56.8238462,84.11875 57.6315385,83.3125 C63.8238462,76.05625 70,68.53125 70,59.125 C70,37.625 48.4615385,26.875 48.4615385,26.875 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

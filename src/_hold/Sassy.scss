@@ -1,0 +1,6 @@
+.blueText {
+    color : rgb(12, 90, 104);
+    & .fancy {
+        color : pink;
+    }
+}
