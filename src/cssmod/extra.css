@@ -2,3 +2,9 @@
   color : blue;
   font-size : 35px;
 }
+.rounded-corners {
+  border-radius: 0.5em;
+}
+.gradiated {
+  background: linear-gradient(top, rgb(148, 148, 148) 0%, #fff 100%);
+}

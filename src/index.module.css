@@ -10,7 +10,7 @@
   width: 10em;
 }
 .orangeButton {
-  background-color: rgb(255, 197, 88);
+  background: rgb(255, 197, 88);
   border : 1px solid rgb(211, 158, 60);
   transition: all 50ms;
 }
@@ -24,4 +24,10 @@
 }
 .modalImage:hover {
   transform : scale(1.1) rotate(15deg);
+}
+.fantasyFont { 
+  font-family: fantasy;
+}
+.imgPopover {
+  width: 5em;
 }
